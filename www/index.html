@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Dashboard - Urban Flows Observatory</title>
+	<meta name="version" content="v1.0">
+	<meta name="author" content="Jamie Huddlestone">
+	<meta name="description" content="A mobile-friendly data visualisation dashboard for the Urban Flows Observatory project at the University of Sheffield.">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="leaflet/leaflet.css">
+	<link rel="stylesheet" href="css/style.css">
+	<script src="leaflet/leaflet.js"></script>
+	<script src="js/map.js"></script>
+	<script src="js/urbanflows.js"></script>
+	<!--script src="js/u-view_min.js"></script-->
+	<!--script src="components.js"></script-->
+	<!--script src="views.js"></script-->
+</head>
+<body onclick="document.getElementById('sidebar').classList.add('folded');">
+	<header class="bg-primary text-white big">
+		<span class="menu icon" onclick="event.stopPropagation(); document.getElementById('sidebar').classList.remove('folded');"></span>
+		<span class="font-primary">Dashboard</span>
+		<nav id="sidebar" class="bg-white text-primary folded" onclick="event.stopPropagation();">
+			<img src="img/assets/Urban_Flows_Observatory.svg">
+			<ul>
+				<!--p><input id="Tfrom" name="Tfrom" type="date"></p-->
+				<li class="map icon">Maps</li>
+				<li class="graph icon">Graphs</li>
+				<li class="cog icon">Settings</li>
+				<li class="info icon">About</li>
+				<!--div style="position: absolute; bottom: 0;">
+					<p><img src="img/assets/University_of_Sheffield.svg"></p>
+					<p><img src="img/assets/ukcric.png"></p>
+					<p><img src="img/assets/EPSRC.png"></p>
+				</div-->
+			</ul>
+		</nav>
+	</header>
+	<main id="container">
+		<div id="leaflet"></div>
+	</main>
+<script>
+
+var DEFAULT_COORDS_SHEFFIELD = [53.380406, -1.472232];
+
+Map.create('leaflet', DEFAULT_COORDS_SHEFFIELD, 6, 3);
+
+fetchCSV()
+	.then(response => response.text())
+	.then(csv => {
+		Map.data = csvToGeoJSON(csv, true);
+		var descriptions = {};
+		for (var dataType in dataStyles) {
+			Map.layers[dataType] = L.geoJSON(Map.data, {
+				filter: (feature) => feature.data[dataType],
+				pointToLayer: (feature, coords) => L.circleMarker(coords, {
+					color: 'black',
+					weight: 0.25,
+					opacity: 0.75,
+					fillOpacity: 0.75,
+					fillColor: dataStyles[dataType](feature)
+				}),
+				onEachFeature: (feature, layer) => {
+					descriptions[dataType] = feature.data[dataType].description;
+					layer.bindPopup(dataPopup(feature, dataType));
+				}
+			});
+		}
+		var overlays = {};
+		for (var layer in Map.layers) {
+			overlays[descriptions[layer]] = Map.layers[layer];
+		}
+		L.control.layers(null, overlays).addTo(Map.frame);
+		//Map.frame.addLayer(Map.layers.pm10);
+		Map.frame.addLayer(Map.layers.pm25);
+	});
+
+
+/* Functions powering the above... */
+
+var dataStyles = {
+	'pm25': (feature) => `hsl(0, 100%, ${100 - 4 * feature.data.pm25.lastValue}%)`,
+	'pm10': (feature) => `hsl(60, 100%, ${100 - 2 * feature.data.pm10.lastValue}%)`,
+	'relhum': (feature) => `hsl(${120 + 1.2 * feature.data.relhum.lastValue}, 100%, 50%)`,
+	'atmpress': (feature) => `hsl(300, 100%, ${100 - (feature.data.atmpress.lastValue - 950)}%)`,
+	'airtemp': (feature) => {
+		var hue = 120 - 4 * feature.data.airtemp.lastValue;
+		if (hue > 90) hue += 60;
+		return 'hsl('+ hue +', 100%, 50%)';
+	}
+};
+
+function dataPopup(feature, dataType) {
+	var properties = feature.properties;
+	var data = feature.data[dataType];
+	if (data == null) return null;
+	return (`
+<h3>${properties.siteId} | ${properties.sensorId}</h3>
+<p style="max-width: 15em;">
+<b>${data.description}</b><br>
+From: &nbsp;${new Date(properties.from).toLocaleString()}<br>
+Until: &nbsp;${new Date(properties.to).toLocaleString()}
+</p>
+<table>
+	<tr><td>Latest value:</td><td><b>${data.lastValue.toFixed(1)}</b> ${data.units}</td></tr>
+	<tr><td>Maximum value:</td><td><b>${data.maxValue.toFixed(1)}</b> ${data.units}</td></tr>
+	<tr><td>Average value:</td><td><b>${data.avgValue.toFixed(1)}</b> ${data.units}</td></tr>
+	<tr><td>Minimum value:</td><td><b>${data.minValue.toFixed(1)}</b> ${data.units}</td></tr>
+</table>
+	`);
+}
+
+</script>
+</body>
+</html>

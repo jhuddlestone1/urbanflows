@@ -1,0 +1,1850 @@
+
+<pre>
+# Urban.Flows.Observatory.Sheffield @ 2019-11-28 18:45:13.321592
+# Number of tables shown: 62
+
+
+# Begin CSV table for pair LD0001|22197
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0001
+# site.longitude: -1.4919544291 [deg]
+# site.latitude: 53.3880900164 [deg]
+# site.heightAboveSeaLevel: 106.9 [m]
+# sensor.id: 22197
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574959242 / 1574963137 / 1574960637 / 1574963137 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 22197 / 22197 / 22197 / 22197 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 0.10000000149 / 0.800000011921 / 0.423333339393 / 0.370000004768 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 0.170000001788 / 3.56999993324 / 1.66999997199 / 1.26999998093 / -32768
+# Number of points 3
+1574959242,22197,0.8,3.57
+1574959534,22197,0.1,0.17
+1574963137,22197,0.37,1.27
+# End CSV table for pair LD0001|22197
+
+
+# Begin CSV table for pair LD0001|22198
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0001
+# site.longitude: -1.4919544291 [deg]
+# site.latitude: 53.3880900164 [deg]
+# site.heightAboveSeaLevel: 106.9 [m]
+# sensor.id: 22198
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574959242 / 1574963138 / 1574960585 / 1574963138 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 22198 / 22198 / 22198 / 22198 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 6.0 / 6.30000019073 / 6.22500014305 / 6.0 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 99.9000015259 / 99.9000015259 / 99.9000015259 / 99.9000015259 / -32768
+# Number of points 4
+1574959242,22198,6.3,99.9
+1574959535,22198,6.3,99.9
+1574960428,22198,6.3,99.9
+1574963138,22198,6.0,99.9
+# End CSV table for pair LD0001|22198
+
+
+# Begin CSV table for pair LD0003|21923
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0003
+# site.longitude: -1.48109462626 [deg]
+# site.latitude: 53.3336462889 [deg]
+# site.heightAboveSeaLevel: 178.0 [m]
+# sensor.id: 21923
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574961651 / 1574963701 / 1574962490 / 1574963701 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21923 / 21923 / 21923 / 21923 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 1.85000002384 / 3.02999997139 / 2.4583333532 / 2.97000002861 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 9.64999961853 / 18.8299999237 / 14.3633332253 / 18.8299999237 / -32768
+# Number of points 6
+1574961651,21923,1.85,10.05
+1574961956,21923,2.2,9.65
+1574962251,21923,2.72,17.23
+1574962545,21923,1.98,14.82
+1574962839,21923,3.03,15.6
+1574963701,21923,2.97,18.83
+# End CSV table for pair LD0003|21923
+
+
+# Begin CSV table for pair LD0003|21924
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0003
+# site.longitude: -1.48109462626 [deg]
+# site.latitude: 53.3336462889 [deg]
+# site.heightAboveSeaLevel: 178.0 [m]
+# sensor.id: 21924
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574960417 / 1574963702 / 1574962194 / 1574963702 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21924 / 21924 / 21924 / 21924 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 5.80000019073 / 6.0 / 5.90000009537 / 5.80000019073 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 99.9000015259 / 99.9000015259 / 99.9000015259 / 99.9000015259 / -32768
+# Number of points 7
+1574960417,21924,6.0,99.9
+1574961651,21924,5.9,99.9
+1574961957,21924,5.9,99.9
+1574962251,21924,5.9,99.9
+1574962547,21924,5.9,99.9
+1574962839,21924,5.9,99.9
+1574963702,21924,5.8,99.9
+# End CSV table for pair LD0003|21924
+
+
+# Begin CSV table for pair LD0005|21103
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0005
+# site.longitude: -1.51387915255 [deg]
+# site.latitude: 53.3979973763 [deg]
+# site.heightAboveSeaLevel: 79.9 [m]
+# sensor.id: 21103
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574960429 / 1574964033 / 1574962912 / 1574964033 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21103 / 21103 / 21103 / 21103 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 4.11999988556 / 10.6800003052 / 6.13000011444 / 4.65000009537 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 19.3299999237 / 25.1000003815 / 22.4125003815 / 20.7000007629 / -32768
+# Number of points 4
+1574960429,21103,10.68,24.52
+1574963448,21103,5.07,25.1
+1574963741,21103,4.12,19.33
+1574964033,21103,4.65,20.7
+# End CSV table for pair LD0005|21103
+
+
+# Begin CSV table for pair LD0005|21104
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0005
+# site.longitude: -1.51387915255 [deg]
+# site.latitude: 53.3979973763 [deg]
+# site.heightAboveSeaLevel: 79.9 [m]
+# sensor.id: 21104
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574960430 / 1574964033 / 1574962913 / 1574964033 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21104 / 21104 / 21104 / 21104 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 7.5 / 8.0 / 7.6749997139 / 7.5 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 99.9000015259 / 99.9000015259 / 99.9000015259 / 99.9000015259 / -32768
+# Number of points 4
+1574960430,21104,8.0,99.9
+1574963449,21104,7.5999994,99.9
+1574963741,21104,7.5999994,99.9
+1574964033,21104,7.5,99.9
+# End CSV table for pair LD0005|21104
+
+
+# Begin CSV table for pair LD0006|19818
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0006
+# site.longitude: -1.48542424286 [deg]
+# site.latitude: 53.3625385614 [deg]
+# site.heightAboveSeaLevel: 94.5 [m]
+# sensor.id: 19818
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956544 / 1574965502 / 1574962706 / 1574965502 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 19818 / 19818 / 19818 / 19818 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.67000007629 / 5.90000009537 / 4.87454548749 / 5.90000009537 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 18.1200008392 / 41.7799987793 / 29.1709093614 / 28.0499992371 / -32768
+# Number of points 11
+1574956544,19818,5.18,32.63
+1574960426,19818,4.68,27.5
+1574961909,19818,4.75,41.78
+1574962206,19818,4.8,29.27
+1574962512,19818,5.22,26.77
+1574962808,19818,3.67,18.12
+1574963730,19818,4.32,35.22
+1574964025,19818,5.5,24.12
+1574964901,19818,4.53,26.17
+1574965208,19818,5.07,31.25
+1574965502,19818,5.9,28.05
+# End CSV table for pair LD0006|19818
+
+
+# Begin CSV table for pair LD0006|19819
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0006
+# site.longitude: -1.48542424286 [deg]
+# site.latitude: 53.3625385614 [deg]
+# site.heightAboveSeaLevel: 94.5 [m]
+# sensor.id: 19819
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956247 / 1574965504 / 1574962220 / 1574965504 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 19819 / 19819 / 19819 / 19819 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 5.82000017166 / 6.61999988556 / 6.125 / 5.86999988556 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 96.9800033569 / 100.0 / 99.4400008065 / 97.1200027466 / -32768
+# Number of points 14
+1574956247,19819,6.62,100.0
+1574956545,19819,6.53,100.0
+1574960427,19819,6.23,99.19
+1574961614,19819,6.2,100.0
+1574961909,19819,6.12,100.0
+1574962207,19819,6.13,100.0
+1574962514,19819,6.33,100.0
+1574962808,19819,6.2,100.0
+1574963430,19819,6.17,98.97
+1574963732,19819,5.83,99.9
+1574964026,19819,5.88,100.0
+1574964914,19819,5.82,100.0
+1574965208,19819,5.82,96.98
+1574965504,19819,5.87,97.12
+# End CSV table for pair LD0006|19819
+
+
+# Begin CSV table for pair LD0007|21422
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0007
+# site.longitude: -1.50986755507 [deg]
+# site.latitude: 53.3360040306 [deg]
+# site.heightAboveSeaLevel: 113.5 [m]
+# sensor.id: 21422
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956253 / 1574963702 / 1574960965 / 1574963702 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21422 / 21422 / 21422 / 21422 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 2.45000004768 / 3.32999992371 / 2.94749999046 / 2.75 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 9.93000030518 / 17.1499996185 / 12.8737498522 / 11.3999996185 / -32768
+# Number of points 8
+1574956253,21422,2.9,13.48
+1574956548,21422,3.28,17.15
+1574961656,21422,2.45,9.93
+1574961952,21422,2.7,11.77
+1574962245,21422,3.05,12.98
+1574962538,21422,3.33,12.9
+1574962830,21422,3.12,13.38
+1574963702,21422,2.75,11.4
+# End CSV table for pair LD0007|21422
+
+
+# Begin CSV table for pair LD0007|21423
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0007
+# site.longitude: -1.50986755507 [deg]
+# site.latitude: 53.3360040306 [deg]
+# site.heightAboveSeaLevel: 113.5 [m]
+# sensor.id: 21423
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956253 / 1574963703 / 1574960966 / 1574963703 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21423 / 21423 / 21423 / 21423 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 7.30000019073 / 7.69999980927 / 7.41250008345 / 7.30000019073 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 99.9000015259 / 99.9000015259 / 99.9000015259 / 99.9000015259 / -32768
+# Number of points 8
+1574956253,21423,7.7,99.9
+1574956549,21423,7.7,99.9
+1574961657,21423,7.3,99.9
+1574961953,21423,7.3,99.9
+1574962246,21423,7.4,99.9
+1574962539,21423,7.3,99.9
+1574962831,21423,7.3,99.9
+1574963703,21423,7.3,99.9
+# End CSV table for pair LD0007|21423
+
+
+# Begin CSV table for pair LD0008|21931
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0008
+# site.longitude: -1.46597864933 [deg]
+# site.latitude: 53.3540130889 [deg]
+# site.heightAboveSeaLevel: 107.3 [m]
+# sensor.id: 21931
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574959550 / 1574965853 / 1574963235 / 1574965853 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21931 / 21931 / 21931 / 21931 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.04999995232 / 10.3999996185 / 4.74833325545 / 3.59999990463 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 16.25 / 29.1499996185 / 20.596666654 / 17.1000003815 / -32768
+# Number of points 6
+1574959550,21931,3.25,18.9
+1574962211,21931,10.4,29.15
+1574962540,21931,4.12,16.25
+1574963735,21931,3.05,20.58
+1574965524,21931,4.07,21.6
+1574965853,21931,3.6,17.1
+# End CSV table for pair LD0008|21931
+
+
+# Begin CSV table for pair LD0008|21932
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0008
+# site.longitude: -1.46597864933 [deg]
+# site.latitude: 53.3540130889 [deg]
+# site.heightAboveSeaLevel: 107.3 [m]
+# sensor.id: 21932
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574959550 / 1574965853 / 1574962835 / 1574965853 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21932 / 21932 / 21932 / 21932 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 6.15999984741 / 6.98000001907 / 6.61571434566 / 6.15999984741 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 91.0699996948 / 93.9899978638 / 92.6357138497 / 91.0699996948 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 988.640014648 / 990.270019531 / 989.530003139 / 990.270019531 / -32768
+# Number of points 7
+1574959550,21932,6.98,93.27,988.64
+1574960430,21932,6.73,93.25,988.9
+1574962212,21932,6.78,92.32,989.55
+1574962540,21932,6.76,93.99,989.52
+1574963736,21932,6.58,93.23,989.67
+1574965524,21932,6.32,91.32,990.16
+1574965853,21932,6.16,91.07,990.27
+# End CSV table for pair LD0008|21932
+
+
+# Begin CSV table for pair LD0011|21987
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0011
+# site.longitude: -1.51011831331 [deg]
+# site.latitude: 53.4039648601 [deg]
+# site.heightAboveSeaLevel: 99.1 [m]
+# sensor.id: 21987
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955924 / 1574964010 / 1574961217 / 1574964010 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21987 / 21987 / 21987 / 21987 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.17000007629 / 4.80000019073 / 3.72333343824 / 3.20000004768 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 13.75 / 20.1700000763 / 16.8833332062 / 16.7299995422 / -32768
+# Number of points 3
+1574955924,21987,4.8,20.17
+1574963718,21987,3.17,13.75
+1574964010,21987,3.2,16.73
+# End CSV table for pair LD0011|21987
+
+
+# Begin CSV table for pair LD0011|21988
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0011
+# site.longitude: -1.51011831331 [deg]
+# site.latitude: 53.4039648601 [deg]
+# site.heightAboveSeaLevel: 99.1 [m]
+# sensor.id: 21988
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955925 / 1574964626 / 1574961736 / 1574964626 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21988 / 21988 / 21988 / 21988 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 5.38999986649 / 5.98000001907 / 5.65 / 5.38999986649 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 85.1200027466 / 90.6100006104 / 86.9480010986 / 85.8000030518 / -32768
+# Number of points 5
+1574955925,21988,5.98,90.61
+1574960401,21988,5.82,86.62
+1574963718,21988,5.59,85.12
+1574964010,21988,5.47,86.59
+1574964626,21988,5.39,85.8
+# End CSV table for pair LD0011|21988
+
+
+# Begin CSV table for pair LD0012|22228
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0012
+# site.longitude: -1.49894784787 [deg]
+# site.latitude: 53.3666327515 [deg]
+# site.heightAboveSeaLevel: 108.6 [m]
+# sensor.id: 22228
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574962806 / 1574964913 / 1574963868 / 1574964913 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 22228 / 22228 / 22228 / 22228 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 2.59999990463 / 4.42999982834 / 3.68249994516 / 2.59999990463 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 16.0699996948 / 20.3700008392 / 17.8675003052 / 17.2000007629 / -32768
+# Number of points 4
+1574962806,22228,4.43,17.83
+1574963731,22228,3.8,16.07
+1574964025,22228,3.9,20.37
+1574964913,22228,2.6,17.2
+# End CSV table for pair LD0012|22228
+
+
+# Begin CSV table for pair LD0012|22229
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0012
+# site.longitude: -1.49894784787 [deg]
+# site.latitude: 53.3666327515 [deg]
+# site.heightAboveSeaLevel: 108.6 [m]
+# sensor.id: 22229
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574959534 / 1574964026 / 1574962702 / 1574964026 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 22229 / 22229 / 22229 / 22229 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 6.69999980927 / 7.09999990463 / 6.88000001907 / 6.69999980927 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 99.9000015259 / 99.9000015259 / 99.9000015259 / 99.9000015259 / -32768
+# Number of points 5
+1574959534,22229,7.1,99.9
+1574962806,22229,7.0,99.9
+1574963413,22229,6.8,99.9
+1574963733,22229,6.8,99.9
+1574964026,22229,6.7,99.9
+# End CSV table for pair LD0012|22229
+
+
+# Begin CSV table for pair LD0014|22174
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0014
+# site.longitude: -1.48000455174 [deg]
+# site.latitude: 53.354013586 [deg]
+# site.heightAboveSeaLevel: 119.9 [m]
+# sensor.id: 22174
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574957737 / 1574965202 / 1574961172 / 1574965202 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 22174 / 22174 / 22174 / 22174 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.70000004768 / 5.03000020981 / 4.28333334128 / 4.96999979019 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 14.25 / 19.8500003815 / 17.5500001907 / 17.0799999237 / -32768
+# Number of points 6
+1574957737,22174,4.18,19.85
+1574959243,22174,3.7,16.12
+1574959535,22174,4.07,18.92
+1574960418,22174,3.75,14.25
+1574964902,22174,5.03,19.08
+1574965202,22174,4.97,17.08
+# End CSV table for pair LD0014|22174
+
+
+# Begin CSV table for pair LD0017|22810
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0017
+# site.longitude: -1.49603600259 [deg]
+# site.latitude: 53.3980040456 [deg]
+# site.heightAboveSeaLevel: 98.1 [m]
+# sensor.id: 22810
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956248 / 1574966102 / 1574962595 / 1574966102 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 22810 / 22810 / 22810 / 22810 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 2.59999990463 / 5.42999982834 / 3.81499996781 / 3.67000007629 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 13.6199998856 / 38.4700012207 / 21.6350001097 / 16.8999996185 / -32768
+# Number of points 8
+1574956248,22810,5.43,38.47
+1574956545,22810,4.6,28.42
+1574960400,22810,2.6,18.35
+1574964920,22810,3.47,13.75
+1574965223,22810,3.92,22.3
+1574965517,22810,2.83,13.62
+1574965809,22810,4.0,21.27
+1574966102,22810,3.67,16.9
+# End CSV table for pair LD0017|22810
+
+
+# Begin CSV table for pair LD0017|22811
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0017
+# site.longitude: -1.49603600259 [deg]
+# site.latitude: 53.3980040456 [deg]
+# site.heightAboveSeaLevel: 98.1 [m]
+# sensor.id: 22811
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956546 / 1574966102 / 1574962878 / 1574966102 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 22811 / 22811 / 22811 / 22811 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 5.90000009537 / 7.19999980927 / 6.44000005722 / 5.90000009537 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 99.9000015259 / 99.9000015259 / 99.9000015259 / 99.9000015259 / -32768
+# Number of points 5
+1574956546,22811,7.2,99.9
+1574960415,22811,6.8,99.9
+1574965517,22811,6.0,99.9
+1574965810,22811,6.3,99.9
+1574966102,22811,5.9,99.9
+# End CSV table for pair LD0017|22811
+
+
+# Begin CSV table for pair LD0018|22951
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0018
+# site.longitude: -1.5001061959 [deg]
+# site.latitude: 53.3860198705 [deg]
+# site.heightAboveSeaLevel: 174.9 [m]
+# sensor.id: 22951
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574961653 / 1574965201 / 1574963046 / 1574965201 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 22951 / 22951 / 22951 / 22951 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.90000009537 / 4.71999979019 / 4.2085713659 / 4.59999990463 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 18.7999992371 / 32.0499992371 / 25.2328567505 / 29.6499996185 / -32768
+# Number of points 7
+1574961653,22951,3.97,24.77
+1574961954,22951,4.1,32.05
+1574962247,22951,4.2,27.13
+1574962539,22951,4.72,20.73
+1574962831,22951,3.97,23.5
+1574964901,22951,3.9,18.8
+1574965201,22951,4.6,29.65
+# End CSV table for pair LD0018|22951
+
+
+# Begin CSV table for pair LD0026|23866
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0026
+# site.longitude: -1.50205878263 [deg]
+# site.latitude: 53.4039778457 [deg]
+# site.heightAboveSeaLevel: 67.8 [m]
+# sensor.id: 23866
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574958944 / 1574966100 / 1574962992 / 1574966100 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 23866 / 23866 / 23866 / 23866 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 2.70000004768 / 4.0 / 3.19090908224 / 3.09999990463 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 14.8199996948 / 24.3299999237 / 19.355454705 / 16.3500003815 / -32768
+# Number of points 11
+1574958944,23866,3.67,22.48
+1574959855,23866,2.72,14.82
+1574961302,23866,2.85,15.98
+1574962557,23866,3.28,24.33
+1574962849,23866,3.03,16.37
+1574963419,23866,4.0,22.7
+1574963728,23866,3.05,15.68
+1574964046,23866,3.45,17.37
+1574964910,23866,2.7,24.33
+1574965204,23866,3.25,22.5
+1574966100,23866,3.1,16.35
+# End CSV table for pair LD0026|23866
+
+
+# Begin CSV table for pair LD0026|23867
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0026
+# site.longitude: -1.50205878263 [deg]
+# site.latitude: 53.4039778457 [deg]
+# site.heightAboveSeaLevel: 67.8 [m]
+# sensor.id: 23867
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574959525 / 1574966101 / 1574963220 / 1574966101 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 23867 / 23867 / 23867 / 23867 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 5.80999994278 / 6.61000013351 / 6.23700003624 / 5.80999994278 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 992.75 / 994.710021973 / 994.022998047 / 994.710021973 / -32768
+# Number of points 10
+1574959525,23867,6.46,100.0,992.75
+1574959856,23867,6.61,100.0,993.23
+1574962557,23867,6.4,100.0,994.0
+1574962849,23867,6.37,100.0,994.0
+1574963419,23867,6.32,100.0,994.09
+1574963730,23867,6.27,100.0,994.23
+1574964046,23867,6.22,100.0,994.35
+1574964912,23867,6.03,100.0,994.4
+1574965205,23867,5.88,100.0,994.47
+1574966101,23867,5.81,100.0,994.71
+# End CSV table for pair LD0026|23867
+
+
+# Begin CSV table for pair LD0028|24153
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0028
+# site.longitude: -1.51808952892 [deg]
+# site.latitude: 53.3619806183 [deg]
+# site.heightAboveSeaLevel: 208.4 [m]
+# sensor.id: 24153
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574957738 / 1574965502 / 1574962400 / 1574965502 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24153 / 24153 / 24153 / 24153 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 2.86999988556 / 4.96999979019 / 3.72888882955 / 3.27999997139 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 12.6300001144 / 24.8700008392 / 18.8500002755 / 19.4500007629 / -32768
+# Number of points 9
+1574957738,24153,4.3,24.87
+1574960149,24153,3.37,20.83
+1574960441,24153,3.33,17.0
+1574962258,24153,4.97,17.65
+1574962550,24153,3.6,16.0
+1574962847,24153,4.62,23.6
+1574964911,24153,3.22,17.62
+1574965207,24153,2.87,12.63
+1574965502,24153,3.28,19.45
+# End CSV table for pair LD0028|24153
+
+
+# Begin CSV table for pair LD0028|24154
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0028
+# site.longitude: -1.51808952892 [deg]
+# site.latitude: 53.3619806183 [deg]
+# site.heightAboveSeaLevel: 208.4 [m]
+# sensor.id: 24154
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574960149 / 1574965503 / 1574962984 / 1574965503 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24154 / 24154 / 24154 / 24154 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 4.21999979019 / 4.75 / 4.50374996662 / 4.21999979019 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 975.159973145 / 976.340026855 / 975.847496033 / 976.340026855 / -32768
+# Number of points 8
+1574960149,24154,4.75,100.0,975.16
+1574960441,24154,4.71,100.0,975.21
+1574962259,24154,4.61,100.0,975.85
+1574962551,24154,4.66,100.0,975.73
+1574962847,24154,4.56,100.0,975.87
+1574964915,24154,4.29,100.0,976.29
+1574965208,24154,4.23,100.0,976.33
+1574965503,24154,4.22,100.0,976.34
+# End CSV table for pair LD0028|24154
+
+
+# Begin CSV table for pair LD0029|24181
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0029
+# site.longitude: -1.51009322895 [deg]
+# site.latitude: 53.3619892124 [deg]
+# site.heightAboveSeaLevel: 144.5 [m]
+# sensor.id: 24181
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574961301 / 1574965500 / 1574963575 / 1574965500 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24181 / 24181 / 24181 / 24181 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.59999990463 / 7.09999990463 / 4.82999996039 / 5.34999990463 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 16.0799999237 / 31.6200008392 / 22.7915386787 / 19.5200004578 / -32768
+# Number of points 13
+1574961301,24181,4.15,16.25
+1574961913,24181,4.53,21.67
+1574962211,24181,4.35,19.92
+1574962528,24181,4.47,31.62
+1574962842,24181,4.22,21.85
+1574963410,24181,4.4,24.85
+1574963716,24181,3.6,26.45
+1574964008,24181,4.72,27.13
+1574964319,24181,7.1,25.42
+1574964611,24181,4.55,16.08
+1574964916,24181,4.75,18.95
+1574965209,24181,6.6,26.58
+1574965500,24181,5.35,19.52
+# End CSV table for pair LD0029|24181
+
+
+# Begin CSV table for pair LD0032|24131
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0032
+# site.longitude: -1.47601897663 [deg]
+# site.latitude: 53.3420325983 [deg]
+# site.heightAboveSeaLevel: 150.3 [m]
+# sensor.id: 24131
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955947 / 1574963727 / 1574961745 / 1574963727 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24131 / 24131 / 24131 / 24131 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.20000004768 / 5.0 / 4.11875000596 / 4.53000020981 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 18.1499996185 / 37.3300018311 / 26.6275005341 / 30.8299999237 / -32768
+# Number of points 8
+1574955947,24131,5.0,37.33
+1574961648,24131,3.85,21.85
+1574961940,24131,3.2,18.15
+1574962232,24131,3.35,23.5
+1574962524,24131,4.57,22.58
+1574962817,24131,4.0,33.08
+1574963132,24131,4.45,25.7
+1574963727,24131,4.53,30.83
+# End CSV table for pair LD0032|24131
+
+
+# Begin CSV table for pair LD0032|24132
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0032
+# site.longitude: -1.47601897663 [deg]
+# site.latitude: 53.3420325983 [deg]
+# site.heightAboveSeaLevel: 150.3 [m]
+# sensor.id: 24132
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955947 / 1574964021 / 1574962140 / 1574964021 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24132 / 24132 / 24132 / 24132 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 6.69999980927 / 7.19999980927 / 6.83000011444 / 6.69999980927 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 99.9000015259 / 99.9000015259 / 99.9000015259 / 99.9000015259 / -32768
+# Number of points 10
+1574955947,24132,7.2,99.9
+1574961648,24132,6.8,99.9
+1574961940,24132,6.8,99.9
+1574962233,24132,6.8,99.9
+1574962525,24132,6.8,99.9
+1574962817,24132,6.8,99.9
+1574963135,24132,6.8,99.9
+1574963412,24132,6.8,99.9
+1574963728,24132,6.8,99.9
+1574964021,24132,6.7,99.9
+# End CSV table for pair LD0032|24132
+
+
+# Begin CSV table for pair LD0033|24133
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0033
+# site.longitude: -1.54193217388 [deg]
+# site.latitude: 53.3320012093 [deg]
+# site.heightAboveSeaLevel: 220.7 [m]
+# sensor.id: 24133
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574957428 / 1574964049 / 1574962098 / 1574964049 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24133 / 24133 / 24133 / 24133 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 2.17000007629 / 3.04999995232 / 2.46000003815 / 2.17000007629 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 12.5200004578 / 19.7700004578 / 16.1785715648 / 12.5200004578 / -32768
+# Number of points 7
+1574957428,24133,2.2,13.05
+1574961923,24133,2.42,17.33
+1574962215,24133,2.4,15.15
+1574962515,24133,3.05,18.23
+1574962809,24133,2.58,17.2
+1574963747,24133,2.4,19.77
+1574964049,24133,2.17,12.52
+# End CSV table for pair LD0033|24133
+
+
+# Begin CSV table for pair LD0033|24134
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0033
+# site.longitude: -1.54193217388 [deg]
+# site.latitude: 53.3320012093 [deg]
+# site.heightAboveSeaLevel: 220.7 [m]
+# sensor.id: 24134
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574957435 / 1574964050 / 1574961807 / 1574964050 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24134 / 24134 / 24134 / 24134 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 5.0 / 5.59999990463 / 5.21999993324 / 5.0 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 99.9000015259 / 99.9000015259 / 99.9000015259 / 99.9000015259 / -32768
+# Number of points 10
+1574957435,24134,5.6,99.9
+1574959530,24134,5.4,99.9
+1574960436,24134,5.3,99.9
+1574961924,24134,5.2,99.9
+1574962216,24134,5.1,99.9
+1574962517,24134,5.2,99.9
+1574962810,24134,5.2,99.9
+1574963413,24134,5.1,99.9
+1574963747,24134,5.1,99.9
+1574964050,24134,5.0,99.9
+# End CSV table for pair LD0033|24134
+
+
+# Begin CSV table for pair LD0034|24188
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0034
+# site.longitude: -1.49910616546 [deg]
+# site.latitude: 53.3669280694 [deg]
+# site.heightAboveSeaLevel: 105.2 [m]
+# sensor.id: 24188
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574962517 / 1574962819 / 1574962668 / 1574962819 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24188 / 24188 / 24188 / 24188 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 6.76000022888 / 6.86000013351 / 6.8100001812 / 6.76000022888 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 84.6100006104 / 86.3000030518 / 85.4550018311 / 86.3000030518 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 990.469970703 / 990.539978027 / 990.504974365 / 990.539978027 / -32768
+# Number of points 2
+1574962517,24188,6.86,84.61,990.47
+1574962819,24188,6.76,86.3,990.54
+# End CSV table for pair LD0034|24188
+
+
+# Begin CSV table for pair LD0035|21921
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0035
+# site.longitude: -1.46392240457 [deg]
+# site.latitude: 53.3539154032 [deg]
+# site.heightAboveSeaLevel: 120.3 [m]
+# sensor.id: 21921
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956259 / 1574965832 / 1574962018 / 1574965832 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21921 / 21921 / 21921 / 21921 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 2.20000004768 / 3.40000009537 / 2.69200000763 / 2.20000004768 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 11.3000001907 / 24.1000003815 / 17.7790001869 / 11.3000001907 / -32768
+# Number of points 10
+1574956259,21921,2.78,21.27
+1574959224,21921,2.7,13.62
+1574959552,21921,2.8,22.42
+1574960419,21921,2.33,19.6
+1574962211,21921,2.47,15.15
+1574962540,21921,2.4,15.7
+1574963730,21921,2.97,11.43
+1574964918,21921,3.4,23.2
+1574965502,21921,2.87,24.1
+1574965832,21921,2.2,11.3
+# End CSV table for pair LD0035|21921
+
+
+# Begin CSV table for pair LD0038|24193
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0038
+# site.longitude: -1.50206880918 [deg]
+# site.latitude: 53.3669986987 [deg]
+# site.heightAboveSeaLevel: 104.9 [m]
+# sensor.id: 24193
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956539 / 1574964044 / 1574961524 / 1574964044 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24193 / 24193 / 24193 / 24193 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.0 / 6.40000009537 / 4.2977777852 / 5.07000017166 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 12.1499996185 / 25.2999992371 / 18.5011111365 / 24.7700004578 / -32768
+# Number of points 9
+1574956539,24193,4.2,19.77
+1574960137,24193,3.0,12.15
+1574960429,24193,3.28,16.8
+1574961610,24193,3.78,15.25
+1574961902,24193,3.85,19.52
+1574962514,24193,5.3,19.02
+1574962808,24193,6.4,25.3
+1574963735,24193,3.8,13.93
+1574964044,24193,5.07,24.77
+# End CSV table for pair LD0038|24193
+
+
+# Begin CSV table for pair LD0038|24194
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0038
+# site.longitude: -1.50206880918 [deg]
+# site.latitude: 53.3669986987 [deg]
+# site.heightAboveSeaLevel: 104.9 [m]
+# sensor.id: 24194
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956244 / 1574964044 / 1574960888 / 1574964044 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24194 / 24194 / 24194 / 24194 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 6.94000005722 / 7.48999977112 / 7.17181821303 / 6.94000005722 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 82.3499984741 / 88.7900009155 / 84.2699994174 / 82.6100006104 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 988.210021973 / 990.140014648 / 989.380004883 / 990.140014648 / -32768
+# Number of points 11
+1574956244,24194,7.49,88.79,988.21
+1574956540,24194,7.46,87.04,988.33
+1574959810,24194,7.34,82.77,989.03
+1574960137,24194,7.19,82.35,989.18
+1574960429,24194,7.11,84.18,989.2
+1574961611,24194,7.11,83.58,989.56
+1574961902,24194,7.09,83.99,989.72
+1574962516,24194,7.1,83.56,989.79
+1574962808,24194,7.1,83.5,989.96
+1574963737,24194,6.96,84.6,990.06
+1574964044,24194,6.94,82.61,990.14
+# End CSV table for pair LD0038|24194
+
+
+# Begin CSV table for pair LD0040|24174
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0040
+# site.longitude: -1.50768018985 [deg]
+# site.latitude: 53.3970129201 [deg]
+# site.heightAboveSeaLevel: 121.0 [m]
+# sensor.id: 24174
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956259 / 1574964620 / 1574960431 / 1574964620 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24174 / 24174 / 24174 / 24174 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.07999992371 / 5.30000019073 / 4.09400005341 / 3.07999992371 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 15.8800001144 / 34.5 / 24.3660001755 / 15.8800001144 / -32768
+# Number of points 5
+1574956259,24174,5.3,34.5
+1574956554,24174,4.65,25.52
+1574960401,24174,3.12,23.58
+1574964321,24174,4.32,22.35
+1574964620,24174,3.08,15.88
+# End CSV table for pair LD0040|24174
+
+
+# Begin CSV table for pair LD0040|24175
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0040
+# site.longitude: -1.50768018985 [deg]
+# site.latitude: 53.3970129201 [deg]
+# site.heightAboveSeaLevel: 121.0 [m]
+# sensor.id: 24175
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956259 / 1574964620 / 1574960440 / 1574964620 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24175 / 24175 / 24175 / 24175 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 5.46999979019 / 6.42000007629 / 5.99399995804 / 5.46999979019 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 986.640014648 / 988.700012207 / 987.604003906 / 988.520019531 / -32768
+# Number of points 5
+1574956259,24175,6.42,100.0,986.64
+1574956554,24175,6.41,100.0,986.67
+1574960441,24175,6.07,100.0,987.49
+1574964328,24175,5.6,100.0,988.7
+1574964620,24175,5.47,100.0,988.52
+# End CSV table for pair LD0040|24175
+
+
+# Begin CSV table for pair LD0041|21177
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0041
+# site.longitude: -1.48588889853 [deg]
+# site.latitude: 53.3620444719 [deg]
+# site.heightAboveSeaLevel: 94.6 [m]
+# sensor.id: 21177
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956224 / 1574964921 / 1574961086 / 1574964921 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21177 / 21177 / 21177 / 21177 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 2.20000004768 / 4.0 / 3.37399997711 / 4.0 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 6.42999982834 / 16.8299999237 / 11.6859999657 / 16.8299999237 / -32768
+# Number of points 5
+1574956224,21177,3.43,9.67
+1574956528,21177,3.87,16.07
+1574963732,21177,2.2,6.43
+1574964027,21177,3.37,9.43
+1574964921,21177,4.0,16.83
+# End CSV table for pair LD0041|21177
+
+
+# Begin CSV table for pair LD0041|21178
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0041
+# site.longitude: -1.48588889853 [deg]
+# site.latitude: 53.3620444719 [deg]
+# site.heightAboveSeaLevel: 94.6 [m]
+# sensor.id: 21178
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956234 / 1574964028 / 1574960580 / 1574964028 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 21178 / 21178 / 21178 / 21178 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 7.69999980927 / 8.0 / 7.84999990463 / 7.69999980927 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 99.9000015259 / 99.9000015259 / 99.9000015259 / 99.9000015259 / -32768
+# Number of points 6
+1574956234,21178,7.8999996,99.9
+1574956529,21178,8.0,99.9
+1574959527,21178,7.8999996,99.9
+1574963432,21178,7.8,99.9
+1574963734,21178,7.8,99.9
+1574964028,21178,7.7,99.9
+# End CSV table for pair LD0041|21178
+
+
+# Begin CSV table for pair LD0043|24135
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0043
+# site.longitude: -1.38006939953 [deg]
+# site.latitude: 53.3699253596 [deg]
+# site.heightAboveSeaLevel: 100.1 [m]
+# sensor.id: 24135
+# sensor.heightAboveGround: 2.38 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955920 / 1574965504 / 1574961514 / 1574965504 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24135 / 24135 / 24135 / 24135 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 1.70000004768 / 4.65000009537 / 2.78272726319 / 2.36999988556 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 4.90000009537 / 16.6200008392 / 11.2581818754 / 13.3000001907 / -32768
+# Number of points 11
+1574955920,24135,4.65,12.7
+1574956254,24135,3.5,12.82
+1574956548,24135,2.58,16.62
+1574957433,24135,1.7,8.5
+1574962806,24135,2.08,4.9
+1574963146,24135,2.03,9.5
+1574964315,24135,2.53,9.9
+1574964607,24135,3.15,10.77
+1574964911,24135,2.92,11.68
+1574965212,24135,3.1,13.15
+1574965504,24135,2.37,13.3
+# End CSV table for pair LD0043|24135
+
+
+# Begin CSV table for pair LD0043|24136
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0043
+# site.longitude: -1.38006939953 [deg]
+# site.latitude: 53.3699253596 [deg]
+# site.heightAboveSeaLevel: 100.1 [m]
+# sensor.id: 24136
+# sensor.heightAboveGround: 2.38 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955923 / 1574965505 / 1574961599 / 1574965505 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24136 / 24136 / 24136 / 24136 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 4.84000015259 / 6.28999996185 / 5.52000001761 / 4.86000013351 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 989.409973145 / 991.539978027 / 990.719994178 / 991.539978027 / -32768
+# Number of points 13
+1574955923,24136,6.29,100.0,989.41
+1574956255,24136,6.16,100.0,989.54
+1574956549,24136,6.24,100.0,989.61
+1574957434,24136,6.17,100.0,989.78
+1574961605,24136,5.65,100.0,990.64
+1574962514,24136,5.52,100.0,990.91
+1574962806,24136,5.42,100.0,991.01
+1574963146,24136,5.34,100.0,991.07
+1574964316,24136,5.19,100.0,991.4
+1574964607,24136,5.08,100.0,991.44
+1574964920,24136,5.0,100.0,991.54
+1574965213,24136,4.84,100.0,991.47
+1574965505,24136,4.86,100.0,991.54
+# End CSV table for pair LD0043|24136
+
+
+# Begin CSV table for pair LD0044|24119
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0044
+# site.longitude: -1.4840154137 [deg]
+# site.latitude: 53.369937731 [deg]
+# site.heightAboveSeaLevel: 93.7 [m]
+# sensor.id: 24119
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956556 / 1574965505 / 1574962684 / 1574965505 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24119 / 24119 / 24119 / 24119 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 0.879999995232 / 4.19999980927 / 1.76249996821 / 1.41999995708 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 1.91999995708 / 9.19999980927 / 5.83416663607 / 5.15000009537 / -32768
+# Number of points 12
+1574956556,24119,0.88,1.92
+1574959532,24119,4.2,7.18
+1574961956,24119,2.78,9.2
+1574962250,24119,1.73,7.32
+1574962542,24119,1.92,6.32
+1574962835,24119,1.3,3.08
+1574963147,24119,1.3,7.22
+1574963733,24119,1.65,4.47
+1574964028,24119,1.15,6.57
+1574964917,24119,1.2,5.93
+1574965212,24119,1.62,5.65
+1574965505,24119,1.42,5.15
+# End CSV table for pair LD0044|24119
+
+
+# Begin CSV table for pair LD0044|24120
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0044
+# site.longitude: -1.4840154137 [deg]
+# site.latitude: 53.369937731 [deg]
+# site.heightAboveSeaLevel: 93.7 [m]
+# sensor.id: 24120
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956556 / 1574965505 / 1574962469 / 1574965505 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24120 / 24120 / 24120 / 24120 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 5.13000011444 / 6.09999990463 / 5.56642855917 / 5.13000011444 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 989.280029297 / 991.289978027 / 990.645006452 / 991.210021973 / -32768
+# Number of points 14
+1574956556,24120,6.1,100.0,989.28
+1574957728,24120,6.02,100.0,989.52
+1574959533,24120,5.81,100.0,989.83
+1574961957,24120,5.64,100.0,990.59
+1574962250,24120,5.63,100.0,990.71
+1574962543,24120,5.58,100.0,990.64
+1574962835,24120,5.61,100.0,990.74
+1574963147,24120,5.52,100.0,990.85
+1574963735,24120,5.56,100.0,990.99
+1574964028,24120,5.46,100.0,991.07
+1574964619,24120,5.34,100.0,991.12
+1574964919,24120,5.33,100.0,991.19
+1574965213,24120,5.2,100.0,991.29
+1574965505,24120,5.13,100.0,991.21
+# End CSV table for pair LD0044|24120
+
+
+# Begin CSV table for pair LD0046|24171
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0046
+# site.longitude: -1.48324121785 [deg]
+# site.latitude: 53.3577586014 [deg]
+# site.heightAboveSeaLevel: 78.0 [m]
+# sensor.id: 24171
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574959530 / 1574963145 / 1574961700 / 1574963145 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24171 / 24171 / 24171 / 24171 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 4.42000007629 / 6.82999992371 / 5.58750009537 / 6.82999992371 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 6.15000009537 / 13.8500003815 / 11.2324999571 / 13.029999733 / -32768
+# Number of points 4
+1574959530,24171,5.55,13.85
+1574961907,24171,4.42,6.15
+1574962219,24171,5.55,11.9
+1574963145,24171,6.83,13.03
+# End CSV table for pair LD0046|24171
+
+
+# Begin CSV table for pair LD0048|24127
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0048
+# site.longitude: -1.57549873957 [deg]
+# site.latitude: 53.4001052979 [deg]
+# site.heightAboveSeaLevel: 253.8 [m]
+# sensor.id: 24127
+# sensor.heightAboveGround: 3.0 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956236 / 1574964025 / 1574961505 / 1574964025 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24127 / 24127 / 24127 / 24127 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 2.02999997139 / 21.1700000763 / 9.00999993748 / 18.7999992371 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 11.6999998093 / 50.5999984741 / 24.2744441562 / 50.5999984741 / -32768
+# Number of points 9
+1574956236,24127,2.23,16.4
+1574956538,24127,2.37,12.73
+1574961958,24127,2.03,11.7
+1574962255,24127,8.03,15.37
+1574962549,24127,21.17,44.57
+1574962842,24127,6.03,15.27
+1574963414,24127,10.43,27.1
+1574963730,24127,10.0,24.73
+1574964025,24127,18.8,50.6
+# End CSV table for pair LD0048|24127
+
+
+# Begin CSV table for pair LD0048|24128
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0048
+# site.longitude: -1.57549873957 [deg]
+# site.latitude: 53.4001052979 [deg]
+# site.heightAboveSeaLevel: 253.8 [m]
+# sensor.id: 24128
+# sensor.heightAboveGround: 3.0 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956243 / 1574964025 / 1574961449 / 1574964025 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24128 / 24128 / 24128 / 24128 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 3.92000007629 / 4.59000015259 / 4.22499996424 / 3.92000007629 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 969.270019531 / 970.989990234 / 970.438751221 / 970.989990234 / -32768
+# Number of points 8
+1574956243,24128,4.59,100.0,969.27
+1574956538,24128,4.56,100.0,969.35
+1574962255,24128,4.23,100.0,970.71
+1574962549,24128,4.2,100.0,970.72
+1574962842,24128,4.14,100.0,970.71
+1574963416,24128,4.08,100.0,970.84
+1574963731,24128,4.08,100.0,970.92
+1574964025,24128,3.92,100.0,970.99
+# End CSV table for pair LD0048|24128
+
+
+# Begin CSV table for pair LD0050|24199
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0050
+# site.longitude: -1.39170317131 [deg]
+# site.latitude: 53.4112227178 [deg]
+# site.heightAboveSeaLevel: 53.5 [m]
+# sensor.id: 24199
+# sensor.heightAboveGround: 2.5 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956529 / 1574964346 / 1574961334 / 1574964346 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24199 / 24199 / 24199 / 24199 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 2.90000009537 / 4.42999982834 / 3.66666666667 / 3.79999995232 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 14.1499996185 / 24.3999996185 / 18.4333333969 / 17.1000003815 / -32768
+# Number of points 9
+1574956529,24199,4.43,24.4
+1574957431,24199,2.9,15.3
+1574960135,24199,3.28,17.87
+1574960427,24199,3.4,21.2
+1574962553,24199,3.5,14.15
+1574962846,24199,4.4,20.88
+1574963723,24199,3.37,16.8
+1574964016,24199,3.92,18.2
+1574964346,24199,3.8,17.1
+# End CSV table for pair LD0050|24199
+
+
+# Begin CSV table for pair LD0050|24200
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0050
+# site.longitude: -1.39170317131 [deg]
+# site.latitude: 53.4112227178 [deg]
+# site.heightAboveSeaLevel: 53.5 [m]
+# sensor.id: 24200
+# sensor.heightAboveGround: 2.5 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956234 / 1574964346 / 1574960957 / 1574964346 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24200 / 24200 / 24200 / 24200 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 5.21999979019 / 6.55999994278 / 5.84833331903 / 5.21999979019 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 993.700012207 / 995.729980469 / 994.840845744 / 995.729980469 / -32768
+# Number of points 12
+1574956234,24200,6.56,100.0,993.7
+1574956529,24200,6.54,100.0,993.77
+1574957436,24200,6.36,100.0,993.86
+1574959828,24200,6.06,100.0,994.4
+1574960135,24200,5.98,100.0,994.55
+1574960428,24200,5.97,100.0,994.78
+1574962554,24200,5.65,100.0,995.28
+1574962847,24200,5.61,100.0,995.4
+1574963415,24200,5.52,100.0,995.46
+1574963724,24200,5.43,100.0,995.51
+1574964016,24200,5.28,100.0,995.65
+1574964346,24200,5.22,100.0,995.73
+# End CSV table for pair LD0050|24200
+
+
+# Begin CSV table for pair LD0053|24240
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0053
+# site.longitude: -1.45969001416 [deg]
+# site.latitude: 53.3813684935 [deg]
+# site.heightAboveSeaLevel: 69.1 [m]
+# sensor.id: 24240
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955929 / 1574964612 / 1574961244 / 1574964612 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24240 / 24240 / 24240 / 24240 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 5.94999980927 / 6.96999979019 / 6.42142847606 / 5.98999977112 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 97.8300018311 / 100.0 / 98.822857448 / 98.7699966431 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 989.869995117 / 992.179992676 / 991.277151925 / 992.179992676 / -32768
+# Number of points 7
+1574955929,24240,6.97,100.0,989.87
+1574959850,24240,6.67,98.32,991.08
+1574960145,24240,6.64,98.04,991.03
+1574960437,24240,6.55,97.83,991.08
+1574963418,24240,6.18,100.0,991.78
+1574964320,24240,5.95,98.8,991.92
+1574964612,24240,5.99,98.77,992.18
+# End CSV table for pair LD0053|24240
+
+
+# Begin CSV table for pair LD0054|24257
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0054
+# site.longitude: -1.61940176936 [deg]
+# site.latitude: 53.4879246181 [deg]
+# site.heightAboveSeaLevel: 173.5 [m]
+# sensor.id: 24257
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955922 / 1574966158 / 1574959737 / 1574966158 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24257 / 24257 / 24257 / 24257 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 1.66999995708 / 3.20000004768 / 2.16333334976 / 3.20000004768 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 7.69999980927 / 24.0 / 12.5911110242 / 24.0 / -32768
+# Number of points 9
+1574955922,24257,2.6,10.57
+1574956239,24257,2.45,12.95
+1574956538,24257,2.2,11.68
+1574957441,24257,1.67,15.13
+1574959844,24257,1.95,10.5
+1574960141,24257,1.7,7.7
+1574960434,24257,2.0,13.07
+1574964919,24257,1.7,7.72
+1574966158,24257,3.2,24.0
+# End CSV table for pair LD0054|24257
+
+
+# Begin CSV table for pair LD0054|24258
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0054
+# site.longitude: -1.61940176936 [deg]
+# site.latitude: 53.4879246181 [deg]
+# site.heightAboveSeaLevel: 173.5 [m]
+# sensor.id: 24258
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955925 / 1574966158 / 1574959091 / 1574966158 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24258 / 24258 / 24258 / 24258 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 4.28999996185 / 5.36999988556 / 5.10375005007 / 4.28999996185 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 980.08001709 / 982.820007324 / 980.992500305 / 982.820007324 / -32768
+# Number of points 8
+1574955925,24258,5.28,100.0,980.08
+1574956244,24258,5.32,100.0,980.16
+1574956539,24258,5.25,100.0,980.33
+1574957442,24258,5.37,100.0,980.85
+1574959848,24258,5.3,100.0,981.47
+1574960142,24258,5.28,100.0,981.45
+1574960434,24258,4.74,100.0,980.78
+1574966158,24258,4.29,100.0,982.82
+# End CSV table for pair LD0054|24258
+
+
+# Begin CSV table for pair LD0056|24246
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0056
+# site.longitude: -1.47266264916 [deg]
+# site.latitude: 53.3908463797 [deg]
+# site.heightAboveSeaLevel: 50.4 [m]
+# sensor.id: 24246
+# sensor.heightAboveGround: 10.0 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955957 / 1574965204 / 1574961894 / 1574965204 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24246 / 24246 / 24246 / 24246 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 6.69999980927 / 8.13000011444 / 7.33499994278 / 6.82999992371 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 994.489990234 / 996.890014648 / 996.089007568 / 996.859985352 / -32768
+# Number of points 10
+1574955957,24246,8.01,100.0,994.49
+1574956556,24246,8.13,100.0,994.75
+1574960133,24246,7.39,100.0,995.58
+1574960425,24246,7.45,100.0,995.71
+1574963143,24246,7.37,100.0,996.45
+1574963708,24246,7.5599995,100.0,996.64
+1574964309,24246,7.05,100.0,996.71
+1574964600,24246,6.7,100.0,996.81
+1574964912,24246,6.86,100.0,996.89
+1574965204,24246,6.83,100.0,996.86
+# End CSV table for pair LD0056|24246
+
+
+# Begin CSV table for pair LD0057|24319
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0057
+# site.longitude: -1.45464575055 [deg]
+# site.latitude: 53.4210573113 [deg]
+# site.heightAboveSeaLevel: 130.4 [m]
+# sensor.id: 24319
+# sensor.heightAboveGround: 2.5 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574960427 / 1574960427 / 1574960427 / 1574960427 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24319 / 24319 / 24319 / 24319 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 5.36999988556 / 5.36999988556 / 5.36999988556 / 5.36999988556 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 24.2999992371 / 24.2999992371 / 24.2999992371 / 24.2999992371 / -32768
+# Number of points 1
+1574960427,24319,5.37,24.3
+# End CSV table for pair LD0057|24319
+
+
+# Begin CSV table for pair LD0057|24320
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0057
+# site.longitude: -1.45464575055 [deg]
+# site.latitude: 53.4210573113 [deg]
+# site.heightAboveSeaLevel: 130.4 [m]
+# sensor.id: 24320
+# sensor.heightAboveGround: 2.5 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955919 / 1574960427 / 1574958173 / 1574960427 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24320 / 24320 / 24320 / 24320 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 4.94999980927 / 5.53000020981 / 5.24000000954 / 4.94999980927 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 985.989990234 / 987.260009766 / 986.625 / 987.260009766 / -32768
+# Number of points 2
+1574955919,24320,5.53,100.0,985.99
+1574960427,24320,4.95,100.0,987.26
+# End CSV table for pair LD0057|24320
+
+
+# Begin CSV table for pair LD0058|24655
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0058
+# site.longitude: -1.46555548327 [deg]
+# site.latitude: 53.4017830126 [deg]
+# site.heightAboveSeaLevel: 124.2 [m]
+# sensor.id: 24655
+# sensor.heightAboveGround: 3.0 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574960140 / 1574964031 / 1574962298 / 1574964031 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24655 / 24655 / 24655 / 24655 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 1.60000002384 / 2.76999998093 / 2.08700002432 / 2.0 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 7.03000020981 / 16.4699993134 / 12.8949998379 / 15.5699996948 / -32768
+# Number of points 10
+1574960140,24655,2.0,13.0
+1574960432,24655,1.6,7.03
+1574961651,24655,1.67,10.9
+1574961949,24655,2.17,11.37
+1574962241,24655,2.2,14.57
+1574962533,24655,2.77,13.9
+1574962825,24655,2.2,12.67
+1574963447,24655,1.83,13.47
+1574963739,24655,2.43,16.47
+1574964031,24655,2.0,15.57
+# End CSV table for pair LD0058|24655
+
+
+# Begin CSV table for pair LD0058|24656
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0058
+# site.longitude: -1.46555548327 [deg]
+# site.latitude: 53.4017830126 [deg]
+# site.heightAboveSeaLevel: 124.2 [m]
+# sensor.id: 24656
+# sensor.heightAboveGround: 3.0 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574959847 / 1574964031 / 1574962075 / 1574964031 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24656 / 24656 / 24656 / 24656 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 4.98000001907 / 5.53000020981 / 5.26363641565 / 4.98000001907 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 95.1399993896 / 96.8300018311 / 96.2172719782 / 96.3600006104 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 985.489990234 / 986.570007324 / 986.043629039 / 986.570007324 / -32768
+# Number of points 11
+1574959847,24656,5.53,95.14,985.49
+1574960140,24656,5.45,95.14,985.55
+1574960432,24656,5.41,95.84,985.62
+1574961651,24656,5.3,96.83,985.99
+1574961949,24656,5.28,96.62,986.02
+1574962241,24656,5.32,96.69,986.1
+1574962533,24656,5.28,96.56,986.19
+1574962825,24656,5.21,96.49,986.18
+1574963447,24656,5.12,96.34,986.29
+1574963739,24656,5.02,96.38,986.48
+1574964031,24656,4.98,96.36,986.57
+# End CSV table for pair LD0058|24656
+
+
+# Begin CSV table for pair LD0060|24247
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0060
+# site.longitude: -1.4176272861 [deg]
+# site.latitude: 53.3734085116 [deg]
+# site.heightAboveSeaLevel: 117.3 [m]
+# sensor.id: 24247
+# sensor.heightAboveGround: 4.0 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955929 / 1574962823 / 1574961202 / 1574962823 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 24247 / 24247 / 24247 / 24247 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 7.59999990463 / 10.7299995422 / 9.18428564072 / 10.7299995422 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 32.2000007629 / 51.5999984741 / 38.8828566415 / 38.0800018311 / -32768
+# Number of points 7
+1574955929,24247,7.6,51.6
+1574961302,24247,9.65,38.35
+1574961650,24247,8.8,41.8
+1574961946,24247,8.93,32.2
+1574962238,24247,8.65,37.3
+1574962531,24247,9.93,32.85
+1574962823,24247,10.73,38.08
+# End CSV table for pair LD0060|24247
+
+
+# Begin CSV table for pair LD0066|25601
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0066
+# site.longitude: -1.46642556143 [deg]
+# site.latitude: 53.3550998709 [deg]
+# site.heightAboveSeaLevel: 97.0 [m]
+# sensor.id: 25601
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955920 / 1574964025 / 1574961894 / 1574964025 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 25601 / 25601 / 25601 / 25601 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.67000007629 / 5.90000009537 / 4.67999996458 / 4.42999982834 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 19.7000007629 / 34.2799987793 / 25.3228571756 / 22.25 / -32768
+# Number of points 7
+1574955920,25601,5.53,34.28
+1574961956,25601,5.9,26.45
+1574962250,25601,4.45,24.4
+1574962543,25601,4.68,19.7
+1574962835,25601,4.1,24.7
+1574963731,25601,3.67,25.48
+1574964025,25601,4.43,22.25
+# End CSV table for pair LD0066|25601
+
+
+# Begin CSV table for pair LD0066|25602
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0066
+# site.longitude: -1.46642556143 [deg]
+# site.latitude: 53.3550998709 [deg]
+# site.heightAboveSeaLevel: 97.0 [m]
+# sensor.id: 25602
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574955922 / 1574964026 / 1574962087 / 1574964026 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 25602 / 25602 / 25602 / 25602 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 6.98000001907 / 7.40999984741 / 7.13249999285 / 7.09000015259 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 97.9000015259 / 100.0 / 99.1612501144 / 97.9000015259 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 989.130004883 / 991.229980469 / 990.751243591 / 991.229980469 / -32768
+# Number of points 8
+1574955922,25602,7.41,100.0,989.13
+1574961957,25602,7.08,100.0,990.74
+1574962251,25602,7.14,98.67,990.82
+1574962543,25602,7.1,99.37,990.92
+1574962835,25602,7.17,100.0,990.99
+1574963432,25602,7.09,99.4,991.1
+1574963733,25602,6.98,97.95,991.08
+1574964026,25602,7.09,97.9,991.23
+# End CSV table for pair LD0066|25602
+
+
+# Begin CSV table for pair LD0067|25591
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0067
+# site.longitude: -1.41835400626 [deg]
+# site.latitude: 53.3731353017 [deg]
+# site.heightAboveSeaLevel: 120.9 [m]
+# sensor.id: 25591
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574956554 / 1574962835 / 1574960912 / 1574962835 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 25591 / 25591 / 25591 / 25591 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 4.03000020981 / 6.55000019073 / 5.23111115562 / 4.17999982834 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 11.5699996948 / 25.3999996185 / 17.4488889906 / 19.3700008392 / -32768
+# Number of points 9
+1574956554,25591,4.4,15.43
+1574959847,25591,6.55,22.33
+1574960145,25591,5.6,25.4
+1574960441,25591,5.9,18.33
+1574961656,25591,4.03,13.13
+1574961950,25591,5.85,11.57
+1574962245,25591,5.57,18.95
+1574962541,25591,5.0,12.53
+1574962835,25591,4.18,19.37
+# End CSV table for pair LD0067|25591
+
+
+# Begin CSV table for pair LD0071|25599
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0071
+# site.longitude: -1.50491853766 [deg]
+# site.latitude: 53.3693488348 [deg]
+# site.heightAboveSeaLevel: 184.1 [m]
+# sensor.id: 25599
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574959852 / 1574959852 / 1574959852 / 1574959852 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 25599 / 25599 / 25599 / 25599 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.52999997139 / 3.52999997139 / 3.52999997139 / 3.52999997139 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 23.1000003815 / 23.1000003815 / 23.1000003815 / 23.1000003815 / -32768
+# Number of points 1
+1574959852,25599,3.53,23.1
+# End CSV table for pair LD0071|25599
+
+
+# Begin CSV table for pair LD0071|25600
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0071
+# site.longitude: -1.50491853766 [deg]
+# site.latitude: 53.3693488348 [deg]
+# site.heightAboveSeaLevel: 184.1 [m]
+# sensor.id: 25600
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574959854 / 1574959854 / 1574959854 / 1574959854 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 25600 / 25600 / 25600 / 25600 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 6.11999988556 / 6.11999988556 / 6.11999988556 / 6.11999988556 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 985.989990234 / 985.989990234 / 985.989990234 / 985.989990234 / -32768
+# Number of points 1
+1574959854,25600,6.12,100.0,985.99
+# End CSV table for pair LD0071|25600
+
+
+# Begin CSV table for pair LD0076|25587
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0076
+# site.longitude: -1.35197693069 [deg]
+# site.latitude: 53.3659542207 [deg]
+# site.heightAboveSeaLevel: 34.4 [m]
+# sensor.id: 25587
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574960121 / 1574964910 / 1574962086 / 1574964910 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 25587 / 25587 / 25587 / 25587 / -32768
+# Column_3 / pm2.5 / ug/m3 / AQ_PM25 / Particulate material less than 2.5 microns in diameter / float / 3.04999995232 / 6.34999990463 / 4.79874995351 / 5.07000017166 / -32768
+# Column_4 / pm10 / ug/m3 / AQ_PM10 / Particulate material less than 10 microns in diameter / float / 15.0699996948 / 31.0799999237 / 23.0874998569 / 25.7299995422 / -32768
+# Number of points 8
+1574960121,25587,3.87,21.52
+1574960420,25587,3.05,17.23
+1574961659,25587,4.22,15.07
+1574961956,25587,5.4,19.1
+1574962250,25587,5.18,26.92
+1574962542,25587,5.25,31.08
+1574962834,25587,6.35,28.05
+1574964910,25587,5.07,25.73
+# End CSV table for pair LD0076|25587
+
+
+# Begin CSV table for pair LD0076|25588
+# The Urban Flows Observatory Sheffield @ 2019-11-28 18:45:13.321592
+# From: 2019-11-28T15:45:13
+# To: 2019-11-28T18:45:13
+# site.id: LD0076
+# site.longitude: -1.35197693069 [deg]
+# site.latitude: 53.3659542207 [deg]
+# site.heightAboveSeaLevel: 34.4 [m]
+# sensor.id: 25588
+# sensor.heightAboveGround: 3.99 [m]
+# sensor.distanceToWall: 0.1 [m]
+# sensor.family: luftdaten
+# sensor.detectors: luftdaten
+# ColDescription: name / units / UCD / description / type / minVal / maxVal / Avge / last / no-data-value 
+# Column_1 / time / s / TIME_UTC_UNIX / Time in seconds since 1970.0, or UNIX time / utime / 1574960121 / 1574964608 / 1574962105 / 1574964608 / -32768
+# Column_2 / sensor /  / ID_MAIN / Sensor identifier / int / 25588 / 25588 / 25588 / 25588 / -32768
+# Column_3 / airtemp / C / MET_TEMP / Air temperature / float / 4.96999979019 / 6.19999980927 / 5.77000004905 / 4.96999979019 / -32768
+# Column_4 / relhum / % / MET_RH / Relative humidity / float / 100.0 / 100.0 / 100.0 / 100.0 / -32768
+# Column_5 / atmpress / hPa / MET_AP / Atmospheric pressure / float / 997.890014648 / 998.940002441 / 998.634294782 / 998.890014648 / -32768
+# Number of points 7
+1574960121,25588,6.2,100.0,998.43
+1574960422,25588,5.82,100.0,997.89
+1574961957,25588,5.96,100.0,998.77
+1574962250,25588,5.92,100.0,998.84
+1574962543,25588,5.76,100.0,998.68
+1574962835,25588,5.76,100.0,998.94
+1574964608,25588,4.97,100.0,998.89
+# End CSV table for pair LD0076|25588
+
+

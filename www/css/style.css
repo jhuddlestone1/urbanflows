@@ -1,0 +1,342 @@
+/*** Style guide ***/
+
+/*
+FONTS:
+Primary:    Playfair Display
+Secondary:  Raleway
+
+COLORS:
+Text:       #303030		rgb(48, 48, 48)
+Background: #e4e4e4		rgb(228, 228, 228)
+Primary:    #3eb7ac		rgb(62, 183, 172)
+Secondary:  #532c77		rgb(83, 44, 119)
+Tertiary:   #8390c8		rgb(131, 144, 200)
+Quaternary: #272252		rgb(39, 34, 82)
+*/
+
+
+/*** Base styles ***/
+
+html { height: 100%; }
+
+body {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Playfair Display', serif;
+	font-weight: normal;
+}
+
+header {
+	z-index: 1001;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	position: sticky;
+	top: 0;
+	padding: 1rem;
+}
+
+#sidebar {
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	max-width: 80vw;
+	overflow: hidden;
+	white-space: nowrap;
+	box-shadow: 0 0 1rem black, 0 0 0 100vmax rgba(0, 0, 0, 0.33);
+	transition: max-width 0.33s, box-shadow 0.33s;
+}
+
+#sidebar.folded {
+	max-width: 0vw;
+	box-shadow: 0 0 1rem black, 0 0 0 100vmax transparent;
+}
+
+#sidebar img {
+	margin: 1em;
+	height: 2em;
+}
+
+#sidebar ul {
+	margin: 0 1em;
+	padding: 0;
+	list-style-type: none;
+}
+
+#sidebar li {
+	padding: 0.5em;
+}
+
+main {
+	flex: 1;
+	overflow-y: auto;
+}
+
+#leaflet {
+	height: 100%;
+}
+
+#leaflet a {
+	color: rgb(62, 183, 172);
+}
+
+
+/*** Design classes ***/
+
+.font-primary {
+	font-family: 'Playfair Display';
+}
+
+.font-secondary {
+	font-family: 'Raleway';
+}
+
+.text-black      { color: rgb(  0,   0,   0); }
+.text-white      { color: rgb(255, 255, 255); }
+.text-body       { color: rgb( 48,  48,  48); }
+.text-field      { color: rgb(228, 228, 228); }
+.text-primary    { color: rgb( 62, 183, 172); }
+.text-secondary  { color: rgb( 83,  44, 119); }
+.text-tertiary   { color: rgb(131, 144, 200); }
+.text-quaternary { color: rgb( 39,  34,  82); }
+
+.bg-black      { background-color: rgb(  0,   0,   0); }
+.bg-white      { background-color: rgb(255, 255, 255); }
+.bg-body       { background-color: rgb( 48,  48,  48); }
+.bg-field      { background-color: rgb(228, 228, 228); }
+.bg-primary    { background-color: rgb( 62, 183, 172); }
+.bg-secondary  { background-color: rgb( 83,  44, 119); }
+.bg-tertiary   { background-color: rgb(131, 144, 200); }
+.bg-quaternary { background-color: rgb( 39,  34,  82); }
+
+
+/*** Utility classes ***/
+
+.clear:after {		/* clearfix; this is important! */
+	content: '';
+	display: table;
+	clear: both;
+}
+
+.overlay {
+	z-index: 1001;
+	position: absolute;
+}
+
+.hidden {
+	display: none;
+}
+
+.page_center {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center {
+	text-align: center;
+}
+
+.normal {
+	font-weight: normal;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.roman {
+	font-style: normal;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.tiny, .half {
+	font-size: 0.5em;
+}
+
+.small, .little {
+	font-size: 0.7071em;
+}
+
+.large, .big {
+	font-size: 1.4142em;
+}
+
+.huge, .double {
+	font-size: 2em;
+}
+
+.inherit {
+	color: inherit;
+	background-color: inherit;
+}
+
+
+/*** Icons ***/
+
+.clickable {
+	cursor: pointer;
+}
+
+.icon:before {
+	display: inline-block;
+	width: 2em;
+	font-family: 'Font Awesome';
+	font-style: normal;
+	font-weight: normal;
+}
+
+.outline.icon:before {
+	font-style: italic;
+}
+
+.menu.icon:before {
+	content: '\f0c9';	/* bars */
+}
+
+.more.icon:before {
+	content: '\f142';	/* ellipsis-v */
+	font-weight: bold;
+}
+
+.home.icon:before {
+	content: '\f015';	/* home */
+}
+
+.marker.icon:before {
+	content: '\f3c5';	/* map-marker-alt */
+}
+
+.map.icon:before {
+	content: '\f5a0';	/* map-marked-alt */
+}
+
+.graph.icon:before {
+	content: '\f080';	/* chart-bar */
+}
+
+.cog.icon:before {
+	content: '\f013';	/* cog */
+}
+
+.info.icon:before {
+	content: '\f05a';	/* info-circle */
+}
+
+.heart.icon:before, .favourite.icon:before {
+	content: '\f004';	/* heart */
+}
+
+.star.icon:before {
+	content: '\f005';	/* star */
+}
+
+.bell.icon:before {
+	content: '\f0f3';	/* bell */
+}
+
+.mail.icon:before, .envelope.icon:before {
+	content: '\f0e0';	/* envelope */
+}
+
+.remove.icon:before {
+	content: '\f00d';	/* times */
+}
+
+.thumbs-up.icon:before {
+	content: '\f164';	/* thumbs-up */
+}
+
+.thumbs-down.icon:before {
+	content: '\f165';	/* thumbs-down */
+}
+
+.facebook.icon:before {
+	content: '\f082';	/* facebook-square */
+	font-weight: bold;
+}
+
+.twitter.icon:before {
+	content: '\f099';	/* twitter */
+	font-weight: bold;
+}
+
+.instagram.icon:before {
+	content: '\f16d';	/* instagram */
+	font-weight: bold;
+}
+
+.android.icon:before {
+	content: '\f17b';	/* android */
+	font-weight: bold;
+}
+
+.apple.icon:before {
+	content: '\f179';	/* apple */
+	font-weight: bold;
+}
+
+
+/*** Font imports ***/
+
+
+/* @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i|Raleway:300,300i&display=swap'); */
+@font-face {
+	font-family: 'Playfair Display';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/PlayfairDisplay-Regular.otf');
+}
+@font-face {
+	font-family: 'Playfair Display';
+	font-weight: normal;
+	font-style: italic;
+	src: url('../fonts/PlayfairDisplay-Italic.otf');
+}
+/*
+@font-face {
+	font-family: 'Raleway';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/Raleway-Light.ttf');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-weight: normal;
+	font-style: italic;
+	src: url('../fonts/Raleway-LightItalic.ttf');
+}
+*/
+
+/* Font Awesome v5.5.0: https://fontawesome.com/ */
+/* Used under SIL Open Font License 1.1: https://scripts.sil.org/OFL */
+@font-face {
+	font-family: 'Font Awesome';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/fa-solid-900.woff');
+}
+@font-face {
+	font-family: 'Font Awesome';
+	font-weight: normal;
+	font-style: italic;
+	src: url('../fonts/fa-regular-400.woff');
+}
+@font-face {
+	font-family: 'Font Awesome';
+	font-weight: bold;
+	font-style: normal;
+	src: url('../fonts/fa-brands-400.woff');
+}
